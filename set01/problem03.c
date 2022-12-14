@@ -5,7 +5,7 @@ void output(int a, int b, int sum);
 int main()
   {
     int a, b, sum;
-    printf("enter two no's: ");
+    printf("enter two no's:");
     a = input();
     b = input();
     sum = add(a, b);
